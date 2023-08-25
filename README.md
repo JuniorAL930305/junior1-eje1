@@ -1,2 +1,2 @@
-# junior1-eje1
+# supermercado
 PROYECTO EN intellij
